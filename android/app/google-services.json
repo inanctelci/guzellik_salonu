@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287159082461",
+    "project_id": "guzellik-salonu-app",
+    "storage_bucket": "guzellik-salonu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287159082461:android:e5f0e9397fb7ad5b32ea34",
+        "android_client_info": {
+          "package_name": "com.example.guzellik_salonu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287159082461-t15v5hckon2do2kjtqael16orv1a82r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8Gw4fi8wNZe4Ow_zW0OQr6BJMTIVSts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287159082461-t15v5hckon2do2kjtqael16orv1a82r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
